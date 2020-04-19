@@ -30,14 +30,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/amazona.git"
+    "url": "git+https://github.com/miranaitamara/Alibaba-marketplace.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/amazona/issues"
+    "url": "https://github.com/miranaitamara/Alibaba-marketplace/issues"
   },
-  "homepage": "https://github.com/basir/amazona#readme",
+  "homepage": "https://github.com/miranaitamara/Alibaba-marketplace",
   "engines": {
     "node": "12.4.0",
     "npm": "6.9.0"
