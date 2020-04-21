@@ -3,7 +3,7 @@
 
   1. create Heroku Account
   2. create new App
-  3. git remote add heroku https://git.heroku.com/myamazona.git
+  3. git remote add heroku https://git.heroku.com/alibaba.git
   4. Install Heroku CLI
   5. heroku login
   6. git push heroku master
